@@ -1,3 +1,2 @@
 # hello-world
-Who I am and what I do
 Hello, world. I am a reporter and editor specializing in financial journalism and data journalism. I began my journey as an economic research assistant in college for the Business Research Division at The University of Colorado and in this position I wrote and edited articles for The Colorado Business Review. Having decided I loved to write about economic and financial topics, especially those involving data, I started reporting USA TODAY College and later for Bloomberg News. I am now a reporter & editor overseeing interactive content on two trade publications owned by the Financial Times. 
